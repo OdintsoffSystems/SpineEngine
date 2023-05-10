@@ -7,6 +7,11 @@ Originally built in NetBeans (project files included but not sure if still runs 
 
 Some sample projects using it included in the **examples** folder.
 
+- Basic graphics rendering support
+- GameFrame and screens
+- Screen transition effects
+- Layers and tiled layers
+
 ## Dev Notes
 
 2023-05-09 - I swear it had OGG sound support at some time, I will try to find this code.
